@@ -57,13 +57,7 @@ Ajan: Sonuç: 70
 Sen: 1'den 10'a kadar çift sayıları toplayan bir script yaz, cift.py olarak kaydet
 Ajan: cift.py dosyası oluşturuldu.
 
-
-## Gelecek Planları
-
-- [ ] Dosya okuma aracı
-- [ ] Ajanın kendi ürettiği kodu otomatik test etmesi ve hataları düzeltmesi
-- [ ] Web arama aracı
-- [ ] Çoklu ajan (multi-agent) mimarisine geçiş
+git add README.md
 
 ## Yazar
 
